@@ -1,2 +1,2 @@
 # Plotting
-Plotting with matplotlib
+Python scripts to create plots using matplotlib.
